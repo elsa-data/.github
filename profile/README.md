@@ -9,6 +9,11 @@ We also provide repositories demonstrating the
 deployment of a complete Elsa Data suite (software + database) in
 both [AWS](https://github.com/elsa-data/aws-application) and [Google Cloud](https://github.com/elsa-data/gcp-deploy).
 
+📷 Screenshot
+
+![screenshot](./screenshot.png)
+
+
 🖊 Authors
 
 - Andrew Patterson (andrew@patto.net)
