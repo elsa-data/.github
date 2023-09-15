@@ -4,6 +4,9 @@ Elsa Data can ingest approved applications from a variety of sources (REMS, RedC
 the details of exactly what data is being shared with exactly which users and under what circumstances. Elsa Data then enables point
 and click mechanics to actually release the genomic objects (object signing, copy out, access points). All of this sharing activity is strongly audited.
 
+Elsa Data is distributed as a configurable Docker image. We also provide repositories demonstrating the
+deployment of a complete Elsa Data suite (software + database) in both AWS and Google Cloud.
+
 🖊 Authors
 
 - Andrew Patterson (andrew@patto.net)
